@@ -2,4 +2,4 @@
 Phase 1: Pre-work
 
    - Python exercices
-   - Titatic (Kaggle competition)
+   - Titanic (Kaggle competition)
